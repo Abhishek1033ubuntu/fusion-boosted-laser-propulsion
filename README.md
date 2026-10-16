@@ -5,7 +5,7 @@
 [![Status: REV4.1 Published](https://img.shields.io/badge/Document--ID-FBLA--PROP--2026--REV4-brightgreen)](docs/FBLA-PROP-2026-REV4.md)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](requirements.txt)
 [![Framework: PyTorch | Numba](https://img.shields.io/badge/Framework-PyTorch%20%7C%20Numba-orange)](solvers/)
-[![DOI: Zenodo Placeholder](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1234567-blue)](https://zenodo.org)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23418830-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23418830)  
 
 
 **Document ID:** FBLA-PROP-2026-REV4  
