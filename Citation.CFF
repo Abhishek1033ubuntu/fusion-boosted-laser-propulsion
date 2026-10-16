@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or technical baseline in your research, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "Design and Multi-Physics Modeling of a Fusion-Boosted Laser-Ablative Modular Space Propulsion System with MHD Nozzle Detachment"
+version: "4.1.0"
+doi: "10.5281/zenodo.1234567" # Optional: Connect repo to Zenodo for an instant DOI
+date-released: 2026-10-16
+url: "https://github.com/Abhishek1033ubuntu/fusion-boosted-laser-propulsion"
