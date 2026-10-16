@@ -9,6 +9,7 @@
 [![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA-CUDA_GPU_Accelerated-76B900?logo=nvidia&logoColor=white)](solvers/mhd_nozzle_2d_blackwell.py) 
 [![Parallel Compute](https://img.shields.io/badge/Parallel_Compute-Numba_JIT_%7C_OpenMP-00599C)](solvers/mhd_nozzle_cpu_numba.py) 
 [![Distributed Solvers](https://img.shields.io/badge/Compute-Distributed_Physics_Suite-008080.svg)](solvers/) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/fusion-boosted-laser-propulsion/blob/main/notebooks/FBLA_Master_Simulation_Suite.ipynb) 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23418830-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23418830)  
 
 
