@@ -79,6 +79,11 @@ git clone [https://github.com/Abhishek1033ubuntu/fbla-modular-spacecraft-mhd.git
 cd fbla-modular-spacecraft-mhd/solvers
 python mhd_nozzle_2d_blackwell.py
 ```
+## Interactive Simulation Suite
+
+Run the master multi-physics simulation suite directly in your browser with zero local setup:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/fusion-boosted-laser-propulsion/blob/main/notebooks/FBLA_Master_Simulation_Suite.ipynb)
 
 ## Sponsorship, Collaborations & Funding
 
