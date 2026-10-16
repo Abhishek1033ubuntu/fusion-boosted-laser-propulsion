@@ -4,7 +4,11 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--6913--096X-green.svg)](https://orcid.org/0009-0004-6913-096X)
 [![Status: REV4.1 Published](https://img.shields.io/badge/Document--ID-FBLA--PROP--2026--REV4-brightgreen)](docs/FBLA-PROP-2026-REV4.md)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)](requirements.txt)
-[![Framework: PyTorch | Numba](https://img.shields.io/badge/Framework-PyTorch%20%7C%20Numba-orange)](solvers/)
+[![Framework: PyTorch | Numba](https://img.shields.io/badge/Framework-PyTorch%20%7C%20Numba-orange)](solvers/) 
+[![HPC Accelerated](https://img.shields.io/badge/HPC-Accelerated_Simulation-8A2BE2.svg)](solvers/) 
+[![NVIDIA CUDA](https://img.shields.io/badge/NVIDIA-CUDA_GPU_Accelerated-76B900?logo=nvidia&logoColor=white)](solvers/mhd_nozzle_2d_blackwell.py) 
+[![Parallel Compute](https://img.shields.io/badge/Parallel_Compute-Numba_JIT_%7C_OpenMP-00599C)](solvers/mhd_nozzle_cpu_numba.py) 
+[![Distributed Solvers](https://img.shields.io/badge/Compute-Distributed_Physics_Suite-008080.svg)](solvers/) 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23418830-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23418830)  
 
 
