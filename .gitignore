@@ -1,0 +1,23 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter / Colab Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+venv/
+ENV/
+
+# Output Data & Logs
+*.log
+*.png
+*.pdf
+!docs/FBLA-PROP-2026-REV4.pdf
+!docs/figures/*.png
+
+# OS Specific
+.DS_Store
+Thumbs.db
