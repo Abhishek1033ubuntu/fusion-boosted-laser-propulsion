@@ -75,9 +75,13 @@ cd fbla-modular-spacecraft-mhd/solvers
 python mhd_nozzle_2d_blackwell.py
 ```
 
-## ⚡ Support
+## Sponsorship, Collaborations & Funding
 
-| Platform | Link |
-| :--- | :--- |
-| **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
-| **GitHub Sponsors** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
+This research is independently developed by Abhishek Singh in collaboration with Team Gemini (Google DeepMind) for computational intelligence and multi-physics solver acceleration.
+
+Research Sponsorship & Industry Partnerships
+We welcome academic partnerships, high-performance computing resource grants, and aerospace research sponsorships to advance experimental sub-scale validation:
+
+Primary Contact: abhishek1033@gmail.com | abhishek.s@live.in
+
+GitHub Support: You can support this project directly via GitHub Sponsors or by starring ⭐ the repository.
