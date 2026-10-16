@@ -67,6 +67,14 @@ fusion-boosted-laser-propulsion/
 └── notebooks/
     └── FBLA_Master_Simulation_Suite.ipynb  # Interactive Google Colab notebook
 ```
+---
+
+## Future Research & Phase II Roadmap
+
+While the published **REV4** baseline establishes a verified $800\text{ K}$ liquid-lithium heat pipe thermal rejection model, high radiator mass fractions ($77.55\text{ t}$) represent a key candidate for advanced optimization.
+
+Detailed trade studies, energy harvesting pathways (Inductive DEC / Thermionics), and $1,200\text{ K}$ high-temperature radiator scaling targeting an **$8.74\text{ t}$ ($8.74\%$) radiator mass fraction** are documented in the Phase II case study:  
+**Thermal Rejection Bottleneck & Energy Mitigation Roadmap [(`docs/FBLA-PROP-2026-CASE-THERMAL.md`)](docs/FBLA-PROP-2026-CASE-THERMAL.md)
 
 ---
 
