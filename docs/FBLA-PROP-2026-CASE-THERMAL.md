@@ -150,4 +150,3 @@ $$\left(\frac{1200}{800}\right)^4 = 5.0625\times \text{ increase in emission per
 2. **High-Temperature Material Compatibility:** Assess carbon-composite degradation rates when exposed to liquid tin/silicon fluids at $1,200\text{--}1,400\text{ K}$.
 3. **Droplet Collector Hydrodynamics:** Develop a Numba/PyTorch solver module for sub-millimeter droplet trajectory tracking under variable spacecraft acceleration vectors.
 
-```
