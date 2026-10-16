@@ -5,7 +5,7 @@
 **Lead Author / Principal Investigator:** Abhishek Singh |  UIDAI: 9414 9122 9013  
 **Affiliation:** Independent Research Group, Madhya Pradesh, India  
 **ORCID:** https://orcid.org/0009-0004-6913-096X  
-**Primary Contact:** abhishek1033@gmail.com | abhishek.s@live.in  | abhishek.singh.941491229013@proton.me
+**Primary Contact:** abhishek1033@gmail.com | abhishek.s@live.in  | abhishek.singh.941491229013@proton.me  
 **AI Computational & Multi-Physics Support:** Team Gemini (Google DeepMind)  
 **Copyright:** Copyright (c) 2026 Abhishek Singh. All Rights Reserved.  
 
