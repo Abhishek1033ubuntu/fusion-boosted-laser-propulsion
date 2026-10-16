@@ -69,7 +69,7 @@ Rather than allowing high-grade thermal and plasma energy to degrade directly in
 During plasma expansion inside the $5.0\text{ T}$ magnetic nozzle, expanding DT alpha particles ($3.5\text{ MeV}$) and target ions induce azimuthal currents ($J_\theta$).
 
 * **Mechanism:** Pick-up induction coils integrated into the nozzle wall convert charged particle kinetic energy directly into high-voltage electricity prior to wall contact.
-* **Conversion Efficiency Target:** $\eta_{\text{DEC}} = 45\%\text{--}65\%$.
+* **Conversion Efficiency Target:** $\eta_{\text{DEC}} = 45% - 65%.
 * **Thermal Mitigation Impact:** Directly reduces the main engine wall heat load ($P_{\text{main\_waste}}$) from $125.00\text{ MW}_{\text{th}}$ down to $\sim 43.75\text{--}68.75\text{ MW}_{\text{th}}$, eliminating up to $17.0\text{ metric tons}$ of dedicated main-engine radiator mass.
 
 ### 2.2 Top-Cycle Thermionic / Thermoelectric Topping
