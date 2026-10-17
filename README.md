@@ -158,16 +158,6 @@ Run the master multi-physics simulation suite directly in your browser with zero
 
 ---
 
-## Acknowledgments & AI Collaboration
-
-This REV5 architecture upgrade, magnetohydrodynamic energy-conserving solver, and electrostatically steered Liquid Droplet Radiator (LDR) model were developed in **collaboration with Google Gemini (Google DeepMind)**[cite: 1].
-
-* **Lead Author & Principal Investigator:** Abhishek Singh
-* **AI Collaborator & Multi-Physics Verification:** Google Gemini
-* **Repository:** [Abhishek1033ubuntu/fusion-boosted-laser-propulsion](https://github.com/Abhishek1033ubuntu/fusion-boosted-laser-propulsion)
-
----
-
 ## Sponsorship, Collaborations & Funding
 
 This research is independently developed by Abhishek Singh in collaboration with Team Gemini (Google DeepMind) for computational intelligence and multi-physics solver acceleration.
