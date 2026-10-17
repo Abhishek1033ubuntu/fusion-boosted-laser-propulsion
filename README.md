@@ -110,6 +110,7 @@ fusion-boosted-laser-propulsion/
 │   ├── FBLA-PROP-2026-REV4.pdf          # Compiled baseline publication PDF report
 │   ├── FBLA-PROP-2026-CASE-THERMAL.md  # Technical Case Study (77.55T -> 8.74T Radiator Mass Reduction)
 │   ├── REV5-THERMAL-ISRU-SUMMARY.md   # Consolidated REV5 Research Report (DEC, LDR & Carbothermal ISRU)
+│   ├── SOLAR-SYSTEM-TRANSIT-CAPABILITIES.md # ADD: Theoretical Solar System Transit Schedule & Capabilities
 │   └── figures/                        # 7 High-resolution simulation plots
 │       ├── differential_vectoring_response.png # Differential thrust vectoring response curves
 │       ├── mhd_nozzle_field.png        # 2D magnetic flux density & nozzle field contours
@@ -179,3 +180,8 @@ We welcome academic partnerships, high-performance computing resource grants, an
 Primary Contact: abhishek1033@gmail.com | abhishek.s@live.in
 
 GitHub Support: You can support this project directly via GitHub Sponsors or by starring ⭐ the repository.
+
+| Platform | Link |
+| :--- | :--- |
+| **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
+| **GitHub Sponsors** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
