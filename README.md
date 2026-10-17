@@ -97,19 +97,30 @@ By coupling a 12-actuator phased laser drive array (12.0 J total pulse energy) w
 ## Repository Structure
 
 ```text
+
 fusion-boosted-laser-propulsion/
 ├── README.md                           # Main publication landing page and badges
 ├── LICENSE                             # MIT License
-├── CITATION.cff                        # Machine-readable citation metadata
+├── CITATION.cff                        # Machine-readable citation metadata (v5.0.0-REV5)
 ├── requirements.txt                    # Python dependencies
 ├── .gitignore                          # Git ignore rules
 ├── docs/
-│   ├── FBLA-PROP-2026-REV4.md          # Technical baseline manuscript
-│   ├── FBLA-PROP-2026-REV4.tex         # LaTeX manuscript source file
-│   ├── FBLA-PROP-2026-REV4.pdf         # Compiled publication PDF report
+│   ├── FBLA-PROP-2026-REV4.md          # Baseline REV4 technical manuscript
+│   ├── FBLA-PROP-2026-REV4.tex          # Baseline LaTeX manuscript source file
+│   ├── FBLA-PROP-2026-REV4.pdf          # Compiled baseline publication PDF report
+│   ├── FBLA-PROP-2026-CASE-THERMAL.md  # Technical Case Study (77.55T -> 8.74T Radiator Mass Reduction)
+│   ├── REV5-THERMAL-ISRU-SUMMARY.md   # Consolidated REV5 Research Report (DEC, LDR & Carbothermal ISRU)
 │   └── figures/                        # 7 High-resolution simulation plots
+│       ├── differential_vectoring_response.png # Differential thrust vectoring response curves
+│       ├── mhd_nozzle_field.png        # 2D magnetic flux density & nozzle field contours
+│       ├── open_throat_flow.png        # Open-throat hydrodynamic flow profile
+│       ├── quad_cluster_magnetic_field.png # Quad-cluster magnetic nozzle topology
+│       ├── thermal_radiator_sizing.png # Radiator surface area vs. operating temperature scaling
+│       ├── timing_jitter_decay.png     # Laser drive timing jitter core pressure decay
+│       └── tritium_mass_balance.png   # Acoustic breeder loop tritium mass balance time series
 ├── solvers/
-│   ├── mhd_nozzle_2d_blackwell.py      # PyTorch MacCormack MHD solver (GPU)
+│   ├── mhd_nozzle_2d_blackwell.py      # Conservational MHD Direct Energy Conversion (DEC) Solver
+│   ├── ldr_hydrodynamics_solver.py     # Electrostatically Steered LDR Trajectory Solver
 │   ├── mhd_nozzle_cpu_numba.py         # Numba JIT CPU solver
 │   ├── acoustic_breeder_neutronics.py  # Tritium mass balance solver
 │   ├── thermal_radiator_sizing.py      # Heat-pipe thermal sizing tool
