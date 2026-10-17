@@ -4,7 +4,6 @@ Lead Author / Principal Investigator: Abhishek Singh
 Collaboration & Numerical Verification: Google Gemini (Google DeepMind)
 ORCID: https://orcid.org/0009-0004-6913-096X
 Copyright (c) 2026 Abhishek Singh. All Rights Reserved.
-"""
 
 Description:
     2D Energy-Conserving MHD Direct Energy Conversion Solver for magnetic nozzles.
