@@ -1,11 +1,38 @@
 cff-version: 1.2.0
-message: "If you use this software or technical baseline in your research, please cite it as below."
+message: "If you use this software, multi-physics framework, or the REV5 thermal/ISRU architecture in your research, please cite it using the metadata below."
+type: software
+title: "Fusion-Boosted Laser-Ablative (FBLA) Propulsion REV5: Energy Harvesting & ISRU Architecture"
+repository-code: "https://github.com/Abhishek1033ubuntu/fusion-boosted-laser-propulsion"
+url: "https://github.com/Abhishek1033ubuntu/fusion-boosted-laser-propulsion"
+license: "MIT"
+date-released: "2026-10-17"
+version: "5.0.0-REV5"
+keywords:
+  - "fusion propulsion"
+  - "magnetohydrodynamics"
+  - "direct energy conversion"
+  - "liquid droplet radiator"
+  - "carbothermal reduction"
+  - "in-situ resource utilization"
+  - "spacecraft thermal management"
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
     orcid: "https://orcid.org/0009-0004-6913-096X"
-title: "Design and Multi-Physics Modeling of a Fusion-Boosted Laser-Ablative Modular Space Propulsion System with MHD Nozzle Detachment"
-version: "4.1.0"
-doi: "10.5281/zenodo.1234567" # Optional: Connect repo to Zenodo for an instant DOI
-date-released: 2026-10-16
-url: "https://github.com/Abhishek1033ubuntu/fusion-boosted-laser-propulsion"
+    email: "abhishek1033@gmail.com"
+    affiliation: "Independent Research Group, Madhya Pradesh, India"
+  - name: "Google Gemini (Google DeepMind)"
+    website: "https://deepmind.google/technologies/gemini/"
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Singh"
+      given-names: "Abhishek"
+      orcid: "https://orcid.org/0009-0004-6913-096X"
+    - name: "Google Gemini (Google DeepMind)"
+  title: "Consolidated REV5 Research Report: Advanced Thermal Mitigation, Energy Harvesting, & ISRU Architecture"
+  institution:
+    name: "Independent Research Group"
+  year: 2026
+  month: 10
+  url: "https://github.com/Abhishek1033ubuntu/fusion-boosted-laser-propulsion/blob/main/docs/REV5-THERMAL-ISRU-SUMMARY.md"
