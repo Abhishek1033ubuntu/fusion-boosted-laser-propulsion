@@ -63,7 +63,7 @@ By coupling a 12-actuator phased laser drive array (12.0 J total pulse energy) w
    +---------------------------------------+         +---------------------------------------+
    |   MAGNETIC NOZZLE MHD DEC STAGE       |         |   THERMIONIC WALL LINING TOPPING      |
    |   • Efficiency: 61.69% (24.38 MWe)    |         |   • Output: 35.0 MWe (@ 1,400 K - 1,800 K)|
-   |   • Exhaust Velocity: 178.9 km/s      |         |   • High-T Heat: 100.0 MWth (@ 1,200 K)  |
+   |   • Exhaust Velocity: 178.9 km/s      |         |   • High-T Heat: 100.0 MWth (@ 1,200 K)|
    +---------------------------------------+         +---------------------------------------+
                        |                                                 |
                        +------------------------+------------------------+
@@ -79,16 +79,16 @@ By coupling a 12-actuator phased laser drive array (12.0 J total pulse energy) w
                        |                                                 |
                        v                                                 v
    +---------------------------------------+         +---------------------------------------+
-   |   CARBOTHERMAL LOX ISRU PLANT         |         |   ELECTROSTATIC LIQUID DROPLET RADIATOR   |
-   |   • Input: 100.0 MWth + 35.0 MWe         |         |   • Fluid: Liquid Tin (Sn) @ 1,200 K      |
-   |   • Throughput: 31.0 t/hr Regolith        |         |   • Thermal Rejection: 210.00 MWth        |
-   |   • Yield: 6.20 t/hr LOX (148.8 t/day)    |         |   • Mass: 8.74 Metric Tons (<0.8 kg/m2)   |
+   |   CARBOTHERMAL LOX ISRU PLANT         |         |   ELECTROSTATIC LIQUID DROPLET RADIATOR |
+   |   • Input: 100.0 MWth + 35.0 MWe      |         |   • Fluid: Liquid Tin (Sn) @ 1,200 K    |
+   |   • Throughput: 31.0 t/hr Regolith    |         |   • Thermal Rejection: 210.00 MWth      |
+   |   • Yield: 6.20 t/hr LOX (148.8 t/day)|         |   • Mass: 8.74 Metric Tons (<0.8 kg/m2) |
    +---------------------------------------+         +---------------------------------------+
                        |                                                 |
                        v                                                 v
    +---------------------------------------+         +---------------------------------------+
    |   3D PRINTING METAL & GLASS SLAG      |         |   100.00% ZERO-LOSS FLUID CAPTURE     |
-   |   (Fe, Ti, Si Structural Feeds)       |         |   (Closed-Loop q*E Steering Grid)         |
+   |   (Fe, Ti, Si Structural Feeds)       |         |   (Closed-Loop q*E Steering Grid)     |
    +---------------------------------------+         +---------------------------------------+
 ```
 
